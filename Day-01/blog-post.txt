@@ -1,0 +1,7 @@
+# What is DevOPS
+
+# How and why DevOPS
+
+# Linux Architecture
+
+# Linux Commands

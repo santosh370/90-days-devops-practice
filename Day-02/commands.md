@@ -1,6 +1,6 @@
 # AWS Linux Commands
 
-## General commands
+### General commands
   
 - `ls`: Show list of contents of current directory or given directory.
 - `cd <directory-name>`: Change directory. 
@@ -26,9 +26,9 @@
 - `echo "Hello world"` — Print any text that follows the command.
   
 
-## Directory/folder management
+### Directory/folder management
 
-## File system commands
+### File system commands
 
 ## Process management
 

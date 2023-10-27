@@ -3,7 +3,7 @@
 ## [What is Linux and their architecture?](https://medium.com/@santosh370/devops-the-secret-sauce-to-software-success-7fe909daeb69)
 
 
-## [List of cmmands][commands.md]
+## [List of commands][commands.md]
 
 ## [AWS Account creation and setup](aws-account-setup.md)
 

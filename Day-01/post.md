@@ -1,4 +1,4 @@
-#DevOps: The Secret Sauce to Software Success
+# DevOps: The Secret Sauce to Software Success
 
 > DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle and provide continuous delivery with high software quality. In other words, it's a way to get software from development to production faster and more reliably.
 
@@ -20,7 +20,8 @@ The key to DevOps is that the developers and operations professionals work toget
 
 **Monitoring and feedback:** DevOps teams use monitoring and logging tools to track the performance and health of their systems. This data is used to identify and resolve problems quickly, and to improve the quality of software over time.
 
-DevOps teams are essential for organizations that want to deliver software quickly and reliably. By adopting DevOps practices, organizations can improve their customer satisfaction, increase their revenue, and reduce their costs.
+> DevOps teams are essential for organizations that want to deliver software quickly and reliably. By adopting DevOps practices, organizations can improve their customer satisfaction, increase their revenue, and reduce their costs.
+
 
 ## Here's a unique way to think about DevOps:
 

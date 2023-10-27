@@ -9,7 +9,8 @@
 - ** `cd ..` : ** Go one directory back from current directory.
 - ** `mkdir <directory-name>` : ** Create a new directory/folder with given name at current position.
 - ** `rmdir <dir-name>` : ** Remove the given directory name
-- `**bold text**`
+- **\`bold text\`**
+- **Bold Text**
 
 
 ## Directory/folder management

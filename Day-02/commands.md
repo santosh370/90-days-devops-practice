@@ -128,7 +128,7 @@
 
 ## Version control commands
   #### git: A distributed version control system
-  - `git init`:
+  - `git init`
   - `git config`
   - `git add`
   - `git commit`
@@ -143,3 +143,4 @@
   #### svn: A centralized version control system
 
 ## Other useful commands
+    **We will add additional comands soon...**

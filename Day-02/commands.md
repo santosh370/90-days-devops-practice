@@ -128,17 +128,17 @@
 
 ## Version control commands
   #### git: A distributed version control system
-	- `git init`
-	- `git config`
-	- `git add`
-	- `git commit`
-	- `git clone`
-	- `git pull`
-	- `git push`
-	- `git revert`
-	- `git rebase`
-	- `git checkout`
-	- `git branch`
+  - `git init`:
+  - `git config`
+  - `git add`
+  - `git commit`
+  - `git clone`
+  - `git pull`
+  - `git push`
+  - `git revert`
+  - `git rebase`
+  - `git checkout`
+  - `git branch`
 	
   #### svn: A centralized version control system
 

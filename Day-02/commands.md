@@ -41,20 +41,20 @@
 - `cat <file-name> | tr > <new-file-name>` : Translate the file.
 - `cut -c  1-2 <file-name>` : cut the file column wise
 - `echo "Hello" >> <file-name>` : Create a new file with content "Hello".
-- `man <command-name>` - Know more about the command usages and options. Its basically display all the syntax, how you will use.
-- `cp <source> <destination>` - Make a copy of a file in the current location.
-- `mv <file-name> <dir-path>` - Move a file from one dir to another.
-- `mv <file-name> <new-fie-name>` - Rename a file.
-- `mv -R <dir-name> <dir-path>` - Move Dir
-- `rm <file-name>` - Remove a file permanently.
-- `rm -R <file-name>` - Delete a folder with dir included.
-- `head <file-name>` - Will display first 10 lines of a file.
-- `tail <file-name>` - Will display last 10 lines of a file.
-    -`-n 2` - will display last 2 lines.
-- `diff <file-1> <file-2>` - Show difference between the two given files file-1 & file-2.
-- `locate <file-name>` - To find out the file.  
-- `find <file/folder-name>` - Find a file/folder.
-- `find <dir-name>` - Find files inside the dir
+- `man <command-name>`: Know more about the command usages and options. Its basically display all the syntax, how you will use.
+- `cp <source> <destination>`: Make a copy of a file in the current location.
+- `mv <file-name> <dir-path>`: Move a file from one dir to another.
+- `mv <file-name> <new-fie-name>`: Rename a file.
+- `mv -R <dir-name> <dir-path>`: Move Dir
+- `rm <file-name>`: Remove a file permanently.
+- `rm -R <file-name>`: Delete a folder with dir included.
+- `head <file-name>`: Will display first 10 lines of a file.
+- `tail <file-name>`: Will display last 10 lines of a file.
+    -`-n 2`: will display last 2 lines.
+- `diff <file-1> <file-2>`: Show difference between the two given files file-1 & file-2.
+- `locate <file-name>`: To find out the file.  
+- `find <file/folder-name>`: Find a file/folder.
+- `find <dir-name>`: Find files inside the dir
 
 
 ### File system commands
@@ -106,9 +106,9 @@
 ## Networking commands
   - `nslookup <host-name>`: To check the IP address of given domain.
   - `netstat`: To check the network statistics or status.
-  - `hostname`: - To check the hostname.
+  - `hostname`: To check the hostname.
   - `whoami`:  To check the current user name.
-  - `ping <host-name>` - To check the connectivity or reachability of given host name.
+  - `ping <host-name>`: To check the connectivity or reachability of given host name.
   - `ifconfig`: Display the status of network interfaces.
   - `route`: Display the routing table.
   - `wget`: Download a file from the web.
@@ -118,9 +118,28 @@
   - `rsync`: Efficiently transfer files between local and remote hosts.
 
 ## Package management
+  - `apt-get`:
+  - `apt`:
+  - `yum`:
+  - `dnf`:
+  - `rpm`:
+  - `dpkg`:
+  - `snap`:  
 
 ## Version control commands
-git: A distributed version control system.
-svn: A centralized version control system.
+  #### git: A distributed version control system
+	- `git init`
+	- `git config`
+	- `git add`
+	- `git commit`
+	- `git clone`
+	- `git pull`
+	- `git push`
+	- `git revert`
+	- `git rebase`
+	- `git checkout`
+	- `git branch`
+	
+  #### svn: A centralized version control system
 
 ## Other useful commands
